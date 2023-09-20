@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/steadramon/ESPGeiger/main/docs/img/ESPGeiger.svg" width="30px"/> ESPHome-Geiger
+# <img src="https://raw.githubusercontent.com/steadramon/ESPGeiger/main/docs/img/ESPGeiger.svg" width="30px"/> ESPHome-ESPGeiger
 ## ESPHome implementation of ESPGeiger
 
 ESPGeiger is an open-source project that makes it easy to monitor radiation levels in your environment.
